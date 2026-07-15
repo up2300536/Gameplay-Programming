@@ -1,0 +1,15 @@
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+UserSettings/
+.vs/
+
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
